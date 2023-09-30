@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: 'Garamond'; font-size: 36px;">Portfolio Website</h1>
+  <h1 style="font-family: 'Garamond'; font-size: 36px;">Omansh Arora</h1>
 </div>
 
 <div align="center">
