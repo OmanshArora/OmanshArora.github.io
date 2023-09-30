@@ -1,19 +1,19 @@
 <div align="center">
-  <h1 style="font-family: 'Your Classic Calligraphy Font';">Portfolio Website</h1>
+  <h1 style="font-family: 'Garamond'; font-size: 36px;">Portfolio Website</h1>
 </div>
 
 <div align="center">
-  <p>
-    🚀 Hello! I'm a sophomore at IIIT Delhi, juggling between computer science and design.
+  <p style="font-size: 18px;">
+    🚀 Hey there! I'm Omansh Arora a sophomore at IIIT Delhi, studying computer science and design.
     <br>
-    🎨 Part of college events, I design things. Occasionally, I design the air too (ambience).
+    🎨 I design things for college events
     <br>
-    💻 Coding is my jam, and design is my canvas. I put both to good use.
+    💻 I code to bring ideas to life, and I use my design skills to make them shine.
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="font-family: 'Your Classic Calligraphy Font';">Coming Soon!</h2>
+  <h2 style="font-family: 'Garamond'; font-size: 24px;">hopefully updating this soon...</h2>
 </div>
